@@ -1,0 +1,23 @@
+Assignment 2
+1. Write a program to print the following number pattern using a loop.
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+2. Calculate the sum of all numbers from 1 to a given number
+(If the user entered 10 the output should be 55 (1+2+3+4+5+6+7+8+9+10))
+3. Write a program to display only those numbers from a list [12, 75, 150, 180, 145, 525, 50]
+that satisfy the following conditions
+1. The number must be divisible by five
+2. If the number is greater than 150, then skip it and move to the next number
+3. If the number is greater than 500, then stop the loop
+4. Write a program to count the total number of digits in a number using a while loop.
+(The number is 75869, so the output should be 5.)
+5. Write a program to print list [10, 20, 30, 40, 50] in reverse order using a loop
+6. Display numbers from -10 to -1 using for loop
+7. Write a program to print prime numbers between 1 and 100
+8. Write a program to print Fibonacci series up to 10 terms
+(For example, 0, 1, 1, 2, 3, 5, 8, 13, 21)
+9. Write a program to use the loop to find the factorial of a given number.
+10. Write a program to print reverse a given integer number
